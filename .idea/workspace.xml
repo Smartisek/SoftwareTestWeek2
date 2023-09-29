@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e849fd87-ee48-4dc5-ab96-e52e40e58617" name="Changes" comment="Creating test">
+    <list default="true" id="e849fd87-ee48-4dc5-ab96-e52e40e58617" name="Changes" comment="Using boolean assertTrue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Junit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Junit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JunitTest.java" afterDir="false" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,21 +64,52 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JunitTest">
-    <configuration name="JunitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.JunitTest.minusNumbersAndDifferenceSix">
+    <configuration name="JunitTest.differenceAndSumIsNotSixAndNumberNotSix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="JunitTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="differenceAndSumIsNotSixAndNumberNotSix" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JunitTest.twoPlusTwoEqualsFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JunitTest.differenceIsSix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="JunitTest" />
-      <option name="METHOD_NAME" value="twoPlusTwoEqualsFour" />
+      <option name="METHOD_NAME" value="differenceIsSix" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest.minusNumbersAndDifferenceSix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitTest" />
+      <option name="METHOD_NAME" value="minusNumbersAndDifferenceSix" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest.noDifferenceButNumberSix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitTest" />
+      <option name="METHOD_NAME" value="noDifferenceButNumberSix" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest.sumIsSix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitTest" />
+      <option name="METHOD_NAME" value="sumIsSix" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,8 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JunitTest" />
-        <item itemvalue="JUnit.JunitTest.twoPlusTwoEqualsFour" />
+        <item itemvalue="JUnit.JunitTest.minusNumbersAndDifferenceSix" />
+        <item itemvalue="JUnit.JunitTest.differenceIsSix" />
+        <item itemvalue="JUnit.JunitTest.noDifferenceButNumberSix" />
+        <item itemvalue="JUnit.JunitTest.sumIsSix" />
+        <item itemvalue="JUnit.JunitTest.differenceAndSumIsNotSixAndNumberNotSix" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695979803446</updated>
-      <workItem from="1695979804450" duration="1340000" />
+      <workItem from="1695979804450" duration="8158000" />
     </task>
     <task id="LOCAL-00001" summary="Creating test">
       <option name="closed" value="true" />
@@ -117,7 +151,31 @@
       <option name="project" value="LOCAL" />
       <updated>1695980705315</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First test">
+      <option name="closed" value="true" />
+      <created>1695981209663</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695981209663</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Using boolean assertTrue">
+      <option name="closed" value="true" />
+      <created>1695981775035</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695981775035</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Using boolean assertTrue">
+      <option name="closed" value="true" />
+      <created>1695981847219</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695981847219</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +183,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating test" />
+    <MESSAGE value="First test" />
+    <MESSAGE value="Using boolean assertTrue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using boolean assertTrue" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JunitTest.java</url>
+          <line>144</line>
+          <properties class="JunitTest" method="differenceIsSix">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
