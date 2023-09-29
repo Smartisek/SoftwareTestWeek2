@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e849fd87-ee48-4dc5-ab96-e52e40e58617" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Junit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JunitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="e849fd87-ee48-4dc5-ab96-e52e40e58617" name="Changes" comment="Creating test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Junit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Junit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JunitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -68,6 +64,33 @@
       <recent name="" />
     </key>
   </component>
+  <component name="RunManager" selected="JUnit.JunitTest">
+    <configuration name="JunitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest.twoPlusTwoEqualsFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitTest" />
+      <option name="METHOD_NAME" value="twoPlusTwoEqualsFour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JunitTest" />
+        <item itemvalue="JUnit.JunitTest.twoPlusTwoEqualsFour" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,11 +99,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695979803446</updated>
-      <workItem from="1695979804450" duration="412000" />
+      <workItem from="1695979804450" duration="1340000" />
     </task>
+    <task id="LOCAL-00001" summary="Creating test">
+      <option name="closed" value="true" />
+      <created>1695980450429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695980450429</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creating test">
+      <option name="closed" value="true" />
+      <created>1695980705315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695980705315</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creating test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating test" />
   </component>
 </project>
